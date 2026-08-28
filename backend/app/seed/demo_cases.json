@@ -1,0 +1,132 @@
+[
+  {
+    "persona_key": "ravi_kumar",
+    "case_number": "CIV-20481",
+    "category": "streetlight",
+    "raw_text": "The streetlight outside my house hasn't worked for two weeks.",
+    "location_text": "Narapally, Hyderabad",
+    "opened_days_ago": 9,
+    "escalated": false,
+    "community_confirmations": 15,
+    "stages": [
+      {"stage_name": "Submitted", "status": "completed", "days_ago": 9, "actor_type": "system", "actor_name": null},
+      {"stage_name": "Assigned", "status": "completed", "days_ago": 8, "actor_type": "authority", "actor_name": "Junior Engineer"},
+      {"stage_name": "Site Inspection", "status": "current", "days_ago": 7, "actor_type": "authority", "actor_name": "Junior Engineer"},
+      {"stage_name": "Repair", "status": "pending", "days_ago": 0, "actor_type": "authority", "actor_name": null},
+      {"stage_name": "Citizen Verification", "status": "pending", "days_ago": 0, "actor_type": "citizen", "actor_name": null}
+    ],
+    "evidence": [
+      {"file_name": "streetlight_dark.jpg", "description_text": "Photo of the dark streetlight taken at night", "days_ago": 9}
+    ]
+  },
+  {
+    "persona_key": "meena_iyer",
+    "case_number": "CIV-20512",
+    "category": "streetlight",
+    "raw_text": "No street light near the park entrance for a while now.",
+    "location_text": "Narapally, Hyderabad",
+    "opened_days_ago": 6,
+    "escalated": false,
+    "community_confirmations": 0,
+    "stages": [
+      {"stage_name": "Submitted", "status": "completed", "days_ago": 6, "actor_type": "system", "actor_name": null},
+      {"stage_name": "Assigned", "status": "current", "days_ago": 5, "actor_type": "authority", "actor_name": "Junior Engineer"},
+      {"stage_name": "Site Inspection", "status": "pending", "days_ago": 0, "actor_type": "authority", "actor_name": null},
+      {"stage_name": "Repair", "status": "pending", "days_ago": 0, "actor_type": "authority", "actor_name": null},
+      {"stage_name": "Citizen Verification", "status": "pending", "days_ago": 0, "actor_type": "citizen", "actor_name": null}
+    ],
+    "evidence": []
+  },
+  {
+    "persona_key": "vikram_singh",
+    "case_number": "CIV-20533",
+    "category": "streetlight",
+    "raw_text": "Lamp post outside our lane has been off for days, it's quite dark at night.",
+    "location_text": "Narapally, Hyderabad",
+    "opened_days_ago": 4,
+    "escalated": false,
+    "community_confirmations": 0,
+    "stages": [
+      {"stage_name": "Submitted", "status": "completed", "days_ago": 4, "actor_type": "system", "actor_name": null},
+      {"stage_name": "Assigned", "status": "current", "days_ago": 3, "actor_type": "authority", "actor_name": "Junior Engineer"},
+      {"stage_name": "Site Inspection", "status": "pending", "days_ago": 0, "actor_type": "authority", "actor_name": null},
+      {"stage_name": "Repair", "status": "pending", "days_ago": 0, "actor_type": "authority", "actor_name": null},
+      {"stage_name": "Citizen Verification", "status": "pending", "days_ago": 0, "actor_type": "citizen", "actor_name": null}
+    ],
+    "evidence": []
+  },
+  {
+    "persona_key": "anita_sharma",
+    "case_number": "PF-28491",
+    "category": "pf_claim",
+    "raw_text": "My PF claim was rejected and I don't understand why.",
+    "location_text": "Pune, Maharashtra",
+    "opened_days_ago": 25,
+    "escalated": true,
+    "community_confirmations": 0,
+    "stages": [
+      {"stage_name": "Submitted", "status": "completed", "days_ago": 25, "actor_type": "system", "actor_name": null},
+      {"stage_name": "Validated", "status": "completed", "days_ago": 20, "actor_type": "authority", "actor_name": "Claims Officer"},
+      {"stage_name": "Employer Verification", "status": "current", "days_ago": 15, "actor_type": "authority", "actor_name": "Claims Officer"},
+      {"stage_name": "Approval", "status": "pending", "days_ago": 0, "actor_type": "authority", "actor_name": null},
+      {"stage_name": "Payment", "status": "pending", "days_ago": 0, "actor_type": "authority", "actor_name": null}
+    ],
+    "evidence": [
+      {"file_name": "pf_rejection_notice.pdf", "description_text": "Rejection notice received from EPFO portal", "days_ago": 25}
+    ]
+  },
+  {
+    "persona_key": "suresh_reddy",
+    "case_number": "SCH-31007",
+    "category": "scholarship",
+    "raw_text": "My scholarship hasn't been credited even though it was approved months ago.",
+    "location_text": "Warangal, Telangana",
+    "opened_days_ago": 35,
+    "escalated": false,
+    "community_confirmations": 0,
+    "stages": [
+      {"stage_name": "Submitted", "status": "completed", "days_ago": 35, "actor_type": "system", "actor_name": null},
+      {"stage_name": "Verified", "status": "completed", "days_ago": 28, "actor_type": "authority", "actor_name": "Scholarship Verification Officer"},
+      {"stage_name": "Sanctioned", "status": "current", "days_ago": 20, "actor_type": "authority", "actor_name": "Scholarship Verification Officer"},
+      {"stage_name": "Bank Credit", "status": "pending", "days_ago": 0, "actor_type": "authority", "actor_name": null},
+      {"stage_name": "Citizen Verification", "status": "pending", "days_ago": 0, "actor_type": "citizen", "actor_name": null}
+    ],
+    "evidence": []
+  },
+  {
+    "persona_key": "lakshmi_devi",
+    "case_number": "PEN-44210",
+    "category": "pension",
+    "raw_text": "My pension hasn't come for three months.",
+    "location_text": "Vijayawada, Andhra Pradesh",
+    "opened_days_ago": 50,
+    "escalated": false,
+    "community_confirmations": 0,
+    "stages": [
+      {"stage_name": "Submitted", "status": "completed", "days_ago": 50, "actor_type": "system", "actor_name": null},
+      {"stage_name": "Verified", "status": "completed", "days_ago": 42, "actor_type": "authority", "actor_name": "Pension Officer"},
+      {"stage_name": "Treasury Processing", "status": "current", "days_ago": 30, "actor_type": "authority", "actor_name": "Pension Officer"},
+      {"stage_name": "Bank Credit", "status": "pending", "days_ago": 0, "actor_type": "authority", "actor_name": null},
+      {"stage_name": "Citizen Verification", "status": "pending", "days_ago": 0, "actor_type": "citizen", "actor_name": null}
+    ],
+    "evidence": []
+  },
+  {
+    "persona_key": "imran_khan",
+    "case_number": "CERT-55019",
+    "category": "certificate",
+    "raw_text": "I applied for my income certificate but it has been stuck for months.",
+    "location_text": "Lucknow, Uttar Pradesh",
+    "opened_days_ago": 60,
+    "escalated": false,
+    "community_confirmations": 0,
+    "stages": [
+      {"stage_name": "Submitted", "status": "completed", "days_ago": 60, "actor_type": "system", "actor_name": null},
+      {"stage_name": "Document Verification", "status": "completed", "days_ago": 50, "actor_type": "authority", "actor_name": "Revenue Inspector"},
+      {"stage_name": "Field Verification", "status": "current", "days_ago": 40, "actor_type": "authority", "actor_name": "Revenue Inspector"},
+      {"stage_name": "Approval", "status": "pending", "days_ago": 0, "actor_type": "authority", "actor_name": null},
+      {"stage_name": "Certificate Issued", "status": "pending", "days_ago": 0, "actor_type": "authority", "actor_name": null}
+    ],
+    "evidence": []
+  }
+]

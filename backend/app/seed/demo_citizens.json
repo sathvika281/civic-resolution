@@ -1,0 +1,9 @@
+[
+  {"persona_key": "ravi_kumar", "display_name": "Ravi Kumar", "phone": "9800000001"},
+  {"persona_key": "anita_sharma", "display_name": "Anita Sharma", "phone": "9800000002"},
+  {"persona_key": "suresh_reddy", "display_name": "Suresh Reddy", "phone": "9800000003"},
+  {"persona_key": "lakshmi_devi", "display_name": "Lakshmi Devi", "phone": "9800000004"},
+  {"persona_key": "imran_khan", "display_name": "Imran Khan", "phone": "9800000005"},
+  {"persona_key": "meena_iyer", "display_name": "Meena Iyer", "phone": "9800000006"},
+  {"persona_key": "vikram_singh", "display_name": "Vikram Singh", "phone": "9800000007"}
+]
