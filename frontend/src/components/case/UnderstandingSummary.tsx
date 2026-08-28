@@ -27,7 +27,7 @@ export function UnderstandingSummary({ understanding }: { understanding: Problem
       </dl>
       {understanding.source === 'fallback' && (
         <p className="mt-3 text-[11px] text-ink-400">
-          Understood using this prototype's built-in rules (no live AI key configured for this demo).
+          Understood using this prototype's deterministic rules engine, not a live AI call.
         </p>
       )}
     </section>
